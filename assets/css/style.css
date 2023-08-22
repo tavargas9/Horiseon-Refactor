@@ -52,7 +52,7 @@ p {
 }
 
 .hero {
-    height: 800px;
+    height: 100%; /*changed height to 100% (image was squished at previous size)*/
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
